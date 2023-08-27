@@ -2,12 +2,12 @@
     [
         {
   "user_id": 1,
-  "post_id": 1,
+  "id": 1,
   "body": "basic api test in coms309"
         },
         {
   "user_id": 2,
-  "post_id": 2,
+  "id": 2,
   "body": "basic api test in coms309 2"
         }
     ]
