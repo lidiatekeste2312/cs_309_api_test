@@ -1,5 +1,9 @@
-{
+{"posts":
+  [
+    {
   "user_id": 1,
   "post_id": 1,
   "body": "basic api test in coms309"
+    }
+  ]
 }
